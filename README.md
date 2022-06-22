@@ -1,5 +1,3 @@
-# LilyChou-Vercel
+# Chou Lily 's Build For Fun
 
-Personal Website
-
-Please visit https://lilychou.tk/
+Choulily website - 做着玩的 - [lily-chou-vercel.vercel.app](https://lily-chou-vercel.vercel.app/) - vercel的hexo真香 - 白嫖万岁!
